@@ -1,0 +1,27 @@
+How to Opean Java File CMD
+
+notepad Demo.Java
+
+----------------------------------------------
+
+How to Create Class  notepad
+
+class Example{
+    public static void main(String args[]){
+        System.out.println("Hello Java")
+    }
+}
+
+----------------------------------------------
+
+How to Compile Java File
+
+javac Demo.java
+
+----------------------------------------------
+
+How to Run class File 
+
+java Example
+
+----------------------------------------------
